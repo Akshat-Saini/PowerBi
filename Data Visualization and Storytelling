@@ -1,0 +1,46 @@
+📊 Sales Dashboard – Power BI
+This project showcases a comprehensive Sales Dashboard built using Power BI, designed to provide actionable insights into key sales metrics, customer behavior, and product performance.
+
+🔍 Overview
+The dashboard displays visual analysis across different dimensions such as city, category, customer, payment mode, and product sub-categories. It helps stakeholders quickly grasp business performance and make informed decisions.
+
+📌 Key Features
+KPI Cards:
+
+Total Profit: 37K
+
+Total Quantity Sold: 5615
+
+Total Sales Amount: 438K
+
+Visual Insights:
+
+Profit by City: Highlights top-performing cities like Indore and Pune.
+
+Quantity by Category (Pie Chart): Shows distribution across Clothing, Electronics, and Furniture.
+
+Profit by Category (Bar Chart): Compare profit margins among different product categories.
+
+Quantity by Customer Name: Identify top buyers.
+
+Quantity by Payment Mode (Donut Chart): Analyze payment preferences like UPI, COD, etc.
+
+Profit by Sub-Category: Drill-down into items like Printers, Bookcases, Sarees, etc.
+
+🎯 Purpose
+This dashboard helps:
+
+Business managers to track performance.
+
+Sales teams to identify top products and customers.
+
+Marketing teams to tailor strategies based on regions or customer segments.
+
+🛠️ Tools Used
+Power BI Desktop,
+
+Data imported from Excel,
+
+DAX for calculated measures.
+
+<a herf='https://github.com/Akshat-Saini/PowerBi/blob/main/README.md>
